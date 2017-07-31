@@ -1,5 +1,3 @@
 MyComponent example:
 
-```
-<MyComponent>Component text</MyComponent>
-```
+  <MyComponent>Component text</MyComponent>
